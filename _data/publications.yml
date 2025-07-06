@@ -19,11 +19,10 @@ main:
   - title: "LDmat: efficiently queryable compression of linkage disequilibrium matrices"
     authors: "Rockwell J. Weiner, Chirag Lakhani, David A. Knowles, Gamze Gürsoy"
     conference: "Bioinformatics, vol. 39, no. 2, pp. btad092, 2023"
+    link: https://academic.oup.com/bioinformatics/article/39/2/btad092/7043094
     code: https://github.com/G2Lab/ldmat
     page: https://pypi.org/project/ldmat/
 
-
-    link: https://academic.oup.com/bioinformatics/article/39/2/btad092/7043094
 
   - title: "Association and interaction of genetics and area-level socioeconomic factors on the prevalence of type 2 diabetes and obesity"
     authors: "Sara J. Cromer, Chirag M. Lakhani, Josep M. Mercader, Timothy D. Majarian, Philip Schroeder, Joanne B. Cole, Jose C. Florez, Chirag J. Patel, Alisa K. Manning, Sherri-Ann M. Burnett-Bowie, et al."
