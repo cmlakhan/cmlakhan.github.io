@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Scientist in the Knowles Lab developing deep learning pipelines to elucidate the functional genomics mechanisms of Alzheimer's Disease risk variants. My work focuses on training cell-type-specific genomics models, creating variant effect prediction scores, and integrating these with statistical genetics approaches to improve fine-mapping of AD GWAS and enhance polygenic risk score prediction across diverse populations. I also lead efforts to predict eQTLs in population-level single-cell brain atlases, bridging the gap between promoter-based eQTLs and enhancer-region GWAS hits to better understand the functional mechanisms underlying AD genetic risk.
+I am a Research Scientist in the Knowles Lab where I am broadly interested in utilizing genomic deep learning models to better understand Alzheimer's disease genetics.  I am active in the Alzheimer's Disease Sequencing Project where I work the the broader community to elucidate the functional mechanism of common and rare AD risk variants.
 
 ## Research Interests
 
