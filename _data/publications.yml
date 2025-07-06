@@ -3,38 +3,48 @@ main:
   - title: "Mosaic chromosomal alterations in blood are associated with an increased risk of Alzheimer's disease"
     authors: "Tatsuhiko Naito, Kosei Hirata, Beomjin Jang, Chirag M. Lakhani, Alice Buonfiglioli, Wan-Ping Lee, Otto Valladares, Li-San Wang, Yukinori Okada, Hong-Hee Won, et al."
     conference: "medRxiv, 2025"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
+
 
   - title: "Integration of Deep Learning Annotations with Functional Genomics Improves Identification of Causal Alzheimer's Disease Variants"
     authors: "Chirag M. Lakhani, Jui-Shan T. Lin, Anjali Das, Tatsuhiko Naito, Towfique Raj, David A. Knowles"
     conference: "medRxiv, 2025"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "Leveraging functional annotations to map rare variants associated with Alzheimer's disease with gruyere"
     authors: "Anjali Das, Chirag Lakhani, Chloé Terwagne, Jui-Shan T. Lin, Tatsuhiko Naito, Towfique Raj, David A. Knowles"
     conference: "medRxiv, 2025"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "LDmat: efficiently queryable compression of linkage disequilibrium matrices"
     authors: "Rockwell J. Weiner, Chirag Lakhani, David A. Knowles, Gamze Gürsoy"
     conference: "Bioinformatics, vol. 39, no. 2, pp. btad092, 2023"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "Association and interaction of genetics and area-level socioeconomic factors on the prevalence of type 2 diabetes and obesity"
     authors: "Sara J. Cromer, Chirag M. Lakhani, Josep M. Mercader, Timothy D. Majarian, Philip Schroeder, Joanne B. Cole, Jose C. Florez, Chirag J. Patel, Alisa K. Manning, Sherri-Ann M. Burnett-Bowie, et al."
     conference: "Diabetes Care, vol. 46, no. 5, pp. 944-952, 2023"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "A new method for estimating the probability of causal relationships from observational data: Application to the study of the short-term effects of air pollution on cardiovascular and respiratory disease"
     authors: "Bryan Andrews, Chirayu Wongchokprasitti, Shyam Visweswaran, Chirag M. Lakhani, Chirag J. Patel, Gregory F. Cooper"
     conference: "Artificial intelligence in medicine, vol. 139, pp. 102546, 2023"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "The impact of socioeconomic status on subsequent neurological outcomes in multiple sclerosis"
     authors: "Devi Sai Sri Kavya Boorgu, Shruthi Venkatesh, Chirag M. Lakhani, Elizabeth Walker, Ines M. Aguerre, Claire Riley, Chirag J. Patel, Philip L. De Jager, Zongqi Xia"
     conference: "Multiple sclerosis and related disorders, vol. 65, pp. 103994, 2022"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "Identifying communities at risk for COVID-19--related burden across 500 US cities and within New York City: unsupervised learning of the coprevalence of health indicators"
     authors: "Andrew Deonarine, Genevieve Lyons, Chirag Lakhani, Walter De Brouwer"
     conference: "JMIR Public Health and Surveillance, vol. 7, no. 8, pp. e26604, 2021"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "Comparisons of polyexposure, polygenic, and clinical risk scores in risk prediction of type 2 diabetes"
     authors: "Yixuan He, Chirag M. Lakhani, Danielle Rasooly, Arjun K. Manrai, Ioanna Tzoulaki, Chirag J. Patel"
     conference: "Diabetes Care, vol. 44, no. 4, pp. 935-943, 2021"
+    pdf: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1.full.pdf
 
   - title: "Geospatial analysis of individual and community-level socioeconomic factors impacting SARS-CoV-2 prevalence and outcomes"
     authors: "Sara J. Cromer, Chirag M. Lakhani, Deborah J. Wexler, Sherri-Ann M. Burnett-Bowie, Miriam Udler, Chirag J. Patel"
@@ -44,7 +54,9 @@ main:
   - title: "Repurposing large health insurance claims data to estimate genetic and environmental contributions in 560 phenotypes"
     authors: "Chirag M. Lakhani, Braden T. Tierney, Arjun K. Manrai, Jian Yang, Peter M. Visscher, Chirag J. Patel"
     conference: "Nature genetics, vol. 51, no. 2, pp. 327-334, 2019"
+    pdf: assets/files/lakhani2019.pdf
 
   - title: "The GIT compactification of quintic threefolds"
     authors: "Chirag Lakhani"
     conference: "arXiv preprint arXiv:1010.3803, 2010"
+    pdf: https://arxiv.org/abs/1010.3803
