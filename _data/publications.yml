@@ -56,7 +56,7 @@ main:
   - title: "Repurposing large health insurance claims data to estimate genetic and environmental contributions in 560 phenotypes"
     authors: "Chirag M. Lakhani, Braden T. Tierney, Arjun K. Manrai, Jian Yang, Peter M. Visscher, Chirag J. Patel"
     conference: "Nature genetics, vol. 51, no. 2, pp. 327-334, 2019"
-    link: https://www.nature.com/articles/s41588-018-0313-7
+    link: assets/files/lakhani2019.pdf
     code: https://github.com/cmlakhan/twinInsurance
     page: http://apps.chiragjpgroup.org/catch/
     others: 'Press Coverage: <a href="https://www.washingtonpost.com/health/2019/01/14/largest-study-american-twins-traces-influence-genes-environment-disease/" target="_blank">Washington Post</a> | <a href="https://www.theverge.com/2019/1/16/18185613/health-genetics-environment-nature-nurture-science" target="_blank">The Verge</a> | <a href="https://www.cnn.com/2019/01/14/health/twins-research-science/index.html" target="_blank">CNN</a> | <a href="https://www.axios.com/2019/01/14/genes-more-than-environment-cause-diseases" target="_blank">Axios</a> | <a href="https://harvardmagazine.com/2019/07/nature-nurture-genetics" target="_blank">Harvard Magazine</a> | <a href="https://factor.niehs.nih.gov/2021/1/science-highlights/data-science" target="_blank">NIEHS Environmental Factor</a>'
