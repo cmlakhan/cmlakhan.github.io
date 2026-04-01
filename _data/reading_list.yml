@@ -2,38 +2,10 @@ categories:
 
   - name: "Genomic Deep Learning"
     subcategories:
-      - name: "Foundation Models"
+      - name: "Model Interpretation"
         papers:
-          - title: "Example Paper Title"
-            authors: "Author A, Author B"
-            venue: "Nature Methods, 2024"
-            link: "https://example.com"
-            notes: ""
-
-      - name: "Variant Effect Prediction"
-        papers:
-          - title: "Example Paper Title"
-            authors: "Author A, Author B"
-            venue: "Nature Genetics, 2024"
-            link: "https://example.com"
-            notes: ""
-
-  - name: "Statistical Genetics"
-    subcategories:
-      - name: "Fine-Mapping"
-        papers:
-          - title: "Example Paper Title"
-            authors: "Author A, Author B"
-            venue: "AJHG, 2024"
-            link: "https://example.com"
-            notes: ""
-
-  - name: "Machine Learning"
-    subcategories:
-      - name: "Transformers"
-        papers:
-          - title: "Example Paper Title"
-            authors: "Author A, Author B"
-            venue: "NeurIPS, 2024"
-            link: "https://example.com"
+          - title: "When Less Is Enough: Low-Rank Structure in DNA Sequence-to-Function Models"
+            authors: "Elizabeth Gilfeather, Maria Chikina, Dennis Kostka"
+            venue: "bioRxiv, 2026"
+            link: "https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1"
             notes: ""
