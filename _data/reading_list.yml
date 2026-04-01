@@ -2,7 +2,7 @@
 categories:
 - name: Functional Genomics
   subcategories:
-  - name: molQTLs
+  - name: Chromatin Accessibility
     papers:
     - title: A meta-analysis of chromatin-associated loci provides insights into mechanistic
         interpretations of trait heritability
@@ -10,6 +10,11 @@ categories:
         F.A. Grant
       venue: bioRxiv, 2026
       link: https://www.biorxiv.org/content/early/2026/03/20/2026.03.19.712994
+    - title: Distinguishing causal from tagging enhancers using single-cell multiome
+        data
+      authors: Elizabeth Dorans, Alkes L. Price
+      venue: medRxiv, 2026
+      link: https://www.medrxiv.org/content/early/2026/02/17/2026.02.15.26346353
 - name: Genomic Deep Learning
   subcategories:
   - name: Model Interpretation
