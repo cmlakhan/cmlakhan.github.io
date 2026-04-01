@@ -1,11 +1,17 @@
+# AUTO-GENERATED from reading_list_input.yml — do not edit manually
 categories:
-
-  - name: "Genomic Deep Learning"
-    subcategories:
-      - name: "Model Interpretation"
-        papers:
-          - title: "When Less Is Enough: Low-Rank Structure in DNA Sequence-to-Function Models"
-            authors: "Elizabeth Gilfeather, Maria Chikina, Dennis Kostka"
-            venue: "bioRxiv, 2026"
-            link: "https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1"
-            notes: ""
+- name: Genomic Deep Learning
+  subcategories:
+  - name: Model Interpretation
+    papers:
+    - title: Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning
+      authors: Evan Seitz, Maria Chikina, Dennis Kostka
+      venue: bioRxiv, 2026
+      link: https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1
+      notes: ''
+    - title: 'When Less Is Enough: Low-Rank Structure in DNA Sequence-to-Function
+        Models'
+      authors: Elizabeth Gilfeather, Maria Chikina, Dennis Kostka
+      venue: bioRxiv, 2026
+      link: https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1
+      notes: ''
