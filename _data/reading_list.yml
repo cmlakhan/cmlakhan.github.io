@@ -1,17 +1,24 @@
-# AUTO-GENERATED from reading_list_input.yml — do not edit manually
+# AUTO-GENERATED from reading_list.bib — do not edit manually
 categories:
 - name: Genomic Deep Learning
   subcategories:
   - name: Model Interpretation
     papers:
     - title: Uncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning
-      authors: Evan Seitz, Maria Chikina, Dennis Kostka
-      venue: bioRxiv, 2026
-      link: https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1
-      notes: ''
+      authors: Evan E. Seitz, David M. McCandlish, Justin B. Kinney, Peter K Koo
+      venue: bioRxiv, 2025
+      link: https://www.biorxiv.org/content/early/2025/10/08/2025.10.07.681052
     - title: 'When Less Is Enough: Low-Rank Structure in DNA Sequence-to-Function
         Models'
       authors: Elizabeth Gilfeather, Maria Chikina, Dennis Kostka
       venue: bioRxiv, 2026
-      link: https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1
-      notes: ''
+      link: https://www.biorxiv.org/content/early/2026/01/23/2026.01.21.700827
+- name: Statistical Genetics
+  subcategories:
+  - name: Fine-Mapping
+    papers:
+    - title: Genome-wide fine-mapping improves identification of causal variants
+      authors: Yang Wu, Zhili Zheng, Loic Thibaut, Tian Lin, Qian Feng, Hao Cheng,
+        Loic Yengo, Michael E. Goddard, Naomi R. Wray, Peter M. Visscher, Jian Zeng
+      venue: Nature Genetics, 2026
+      link: http://dx.doi.org/10.1038/s41588-026-02549-3

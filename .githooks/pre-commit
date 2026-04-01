@@ -1,8 +1,8 @@
 #!/bin/sh
-# Auto-sort reading list before committing
+# Auto-generate reading list YAML from BibTeX before committing
 
-# Check if the input file is staged
-if git diff --cached --name-only | grep -q '_data/reading_list_input.yml'; then
+# Check if the bib file is staged
+if git diff --cached --name-only | grep -q '_data/reading_list.bib'; then
     python3 scripts/sort_reading_list.py
     git add _data/reading_list.yml
 fi
