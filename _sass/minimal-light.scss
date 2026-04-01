@@ -595,3 +595,39 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.site-nav {
+  margin-top: 5px;
+}
+
+.site-nav .nav-link {
+  display: inline-block;
+  padding: 6px 14px;
+  margin: 0 4px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #043361;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  background: #f4f4f4;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.site-nav .nav-link:hover {
+  background: #e0e0e0;
+  color: #043361;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-nav .nav-link {
+    color: rgb(62, 183, 240);
+    border-color: #444;
+    background: #2a2b36;
+  }
+
+  .site-nav .nav-link:hover {
+    background: #3a3b46;
+    color: rgb(62, 183, 240);
+  }
+}
