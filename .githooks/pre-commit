@@ -1,0 +1,8 @@
+#!/bin/sh
+# Auto-sort reading list before committing
+
+# Check if the input file is staged
+if git diff --cached --name-only | grep -q '_data/reading_list_input.yml'; then
+    python3 scripts/sort_reading_list.py
+    git add _data/reading_list.yml
+fi
