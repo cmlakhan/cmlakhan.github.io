@@ -7,6 +7,27 @@
     "text": "Released tools from my research. Each is open source and accompanies a paper.\n\nscEEMS\nSingle-cell Enhanced Expression Modifier Scores — a machine learning framework for predicting cell-type-resolved brain eQTLs, used to identify variants explaining Alzheimer’s disease heritability.\nCode Paper\n\n\ngruyere\nGenome-wide Rare Variant EnRichment Evaluation — a rare-variant association test that leverages functional annotations, applied to Alzheimer disease (published in AJHG, 2025).\nCode Paper\n\n\nparmigiano\nAn empirical Bayes framework for burden and dispersion rare-variant association tests, used to prioritize rare variants associated with Alzheimer’s disease.\nCode Paper\n\n\nLDmat\nEfficiently queryable compression of linkage disequilibrium matrices, released as a Python package on PyPI.\nCode PyPI Paper"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chirag M. Lakhani",
+    "section": "",
+    "text": "I develop statistical and deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to identify causal variants and uncover missing regulation in Alzheimer’s disease.\nI am a Senior Research Scientist at the New York Genome Center, working with David Knowles (Columbia University/New York Genome Center) and Towfique Raj (Icahn School of Medicine at Mount Sinai), and a member of the NIH Alzheimer’s Disease Sequencing Project consortium, where I collaborate with members of the AI/ML and Functional Genomics Working Group. My work is supported by the NIH/NIA-funded U01 AG068880, Learning the Regulatory Code of Alzheimer’s Disease Genomes, part of the ADSP Functional Genomics Consortium (FunGen-AD).\nTrained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.\nContact: clakhani (at) nygenome.org"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Chirag M. Lakhani",
+    "section": "",
+    "text": "I develop statistical and deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to identify causal variants and uncover missing regulation in Alzheimer’s disease.\nI am a Senior Research Scientist at the New York Genome Center, working with David Knowles (Columbia University/New York Genome Center) and Towfique Raj (Icahn School of Medicine at Mount Sinai), and a member of the NIH Alzheimer’s Disease Sequencing Project consortium, where I collaborate with members of the AI/ML and Functional Genomics Working Group. My work is supported by the NIH/NIA-funded U01 AG068880, Learning the Regulatory Code of Alzheimer’s Disease Genomes, part of the ADSP Functional Genomics Consortium (FunGen-AD).\nTrained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.\nContact: clakhani (at) nygenome.org"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Chirag M. Lakhani",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nDeep learning models of gene regulation and variant effect prediction\nRare variant gene discovery and common variant fine-mapping in Alzheimer’s disease\nDiscovery of cell-specific deep learning annotations which can be used as priors for fine-mapping and rare variant association testing"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -33,54 +54,5 @@
     "title": "Publications",
     "section": "Earlier Work",
     "text": "Earlier Work\n\nFrom my doctoral training in mathematics.\n\n\n\nThe GIT compactification of quintic threefolds\n\n\nChirag Lakhani\n\n\narXiv preprint arXiv:1010.3803, 2010\n\n\nFrom my doctoral training in algebraic geometry.\n\n\nPaper"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chirag M. Lakhani",
-    "section": "",
-    "text": "I develop statistical and deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to identify causal variants and uncover missing regulation in Alzheimer’s disease.\nI am a Senior Research Scientist at the New York Genome Center, working with David Knowles (Columbia University/New York Genome Center) and Towfique Raj (Icahn School of Medicine at Mount Sinai), and a member of the NIH Alzheimer’s Disease Sequencing Project consortium, where I collaborate with members of the AI/ML and Functional Genomics Working Group. My work is supported by the NIH/NIA-funded U01 AG068880, Learning the Regulatory Code of Alzheimer’s Disease Genomes, part of the ADSP Functional Genomics Consortium (FunGen-AD).\nTrained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.\nContact: clakhani (at) nygenome.org"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Chirag M. Lakhani",
-    "section": "",
-    "text": "I develop statistical and deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to identify causal variants and uncover missing regulation in Alzheimer’s disease.\nI am a Senior Research Scientist at the New York Genome Center, working with David Knowles (Columbia University/New York Genome Center) and Towfique Raj (Icahn School of Medicine at Mount Sinai), and a member of the NIH Alzheimer’s Disease Sequencing Project consortium, where I collaborate with members of the AI/ML and Functional Genomics Working Group. My work is supported by the NIH/NIA-funded U01 AG068880, Learning the Regulatory Code of Alzheimer’s Disease Genomes, part of the ADSP Functional Genomics Consortium (FunGen-AD).\nTrained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.\nContact: clakhani (at) nygenome.org"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Chirag M. Lakhani",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nDeep learning models of gene regulation and variant effect prediction\nRare variant gene discovery and common variant fine-mapping in Alzheimer’s disease\nDiscovery of cell-specific deep learning annotations which can be used as priors for fine-mapping and rare variant association testing"
-  },
-  {
-    "objectID": "reading-list.html",
-    "href": "reading-list.html",
-    "title": "Reading List",
-    "section": "",
-    "text": "Papers I’m currently reading, roughly grouped by what they’re teaching me."
-  },
-  {
-    "objectID": "reading-list.html#functional-genomics",
-    "href": "reading-list.html#functional-genomics",
-    "title": "Reading List",
-    "section": "Functional Genomics",
-    "text": "Functional Genomics\n\nChromatin Accessibility\n\n\nA meta-analysis of chromatin-associated loci provides insights into mechanistic interpretations of trait heritability\n\n\nMax F. Dudek, Brandon M. Wenz, Benjamin F. Voight, Laura Almasy, Struan F.A. Grant\n\n\nbioRxiv, 2026\n\n\nPaper\n\n\n\n\nDistinguishing causal from tagging enhancers using single-cell multiome data\n\n\nElizabeth Dorans, Alkes L. Price\n\n\nmedRxiv, 2026\n\n\nPaper\n\n\n\n\nTranscription Factor Binding\n\n\nUnstructured transcription factor interactions enable emergent specificity\n\n\nAbrar A Abidi, Claudia Cattoglio, Natalie N Tang, Vinson B Fan, Gina M Dailey, Amir D Hay, Prasanthi Kunamaneni, Daniel E Milkie, Xavier Darzacq, Eric Betzig, Robert Tjian, Thomas G W Graham\n\n\nScience, 2026\n\n\nPaper"
-  },
-  {
-    "objectID": "reading-list.html#genomic-deep-learning",
-    "href": "reading-list.html#genomic-deep-learning",
-    "title": "Reading List",
-    "section": "Genomic Deep Learning",
-    "text": "Genomic Deep Learning\n\nModel Interpretation\n\n\nUncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning\n\n\nEvan E. Seitz, David M. McCandlish, Justin B. Kinney, Peter K Koo\n\n\nbioRxiv, 2025\n\n\nPaper\n\n\n\n\nWhen Less Is Enough: Low-Rank Structure in DNA Sequence-to-Function Models\n\n\nElizabeth Gilfeather, Maria Chikina, Dennis Kostka\n\n\nbioRxiv, 2026\n\n\nPaper\n\n\n\n\nSelf-Supervised Learning\n\n\nPredicting functional constraints across evolutionary timescales with phylogeny-informed genomic language models\n\n\nChengzhong Ye, Gonzalo Benegas, Carlos Albors, Jianan Canal Li, Sebastian Prillo, Peter D. Fields, Brian Clarke, Yun S. Song\n\n\nbioRxiv, 2025\n\n\nPaper\n\n\n\n\nSequence to Function Modeling\n\n\nSequence-based modeling of low-affinity transcription factor–DNA binding through deep learning\n\n\nYingfei Wang, Jinsen Li, Tsu-Pei Chiu, Beibei Xin, Remo Rohs\n\n\nNAR Genomics and Bioinformatics, 2026\n\n\nPaper"
-  },
-  {
-    "objectID": "reading-list.html#statistical-genetics",
-    "href": "reading-list.html#statistical-genetics",
-    "title": "Reading List",
-    "section": "Statistical Genetics",
-    "text": "Statistical Genetics\n\nFine-Mapping\n\n\nGenome-wide fine-mapping improves identification of causal variants\n\n\nYang Wu, Zhili Zheng, Loic Thibaut, Tian Lin, Qian Feng, Hao Cheng, Loic Yengo, Michael E. Goddard, Naomi R. Wray, Peter M. Visscher, Jian Zeng\n\n\nNature Genetics, 2026\n\n\nPaper\n\n\n\n\nVariant Modeling\n\n\nTraining Flexible Models of Genetic Variant Effects from Functional Annotations using Accelerated Linear Algebra\n\n\nAlan N. Amin, Andres Potapczynski, Andrew Gordon Wilson\n\n\n2025\n\n\nPaper"
   }
 ]
