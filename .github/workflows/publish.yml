@@ -26,6 +26,15 @@ jobs:
       - name: Generate publication and reading-list content
         run: python3 scripts/build_content.py
 
+      - name: Compile CV
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: main.tex
+          working_directory: _cv
+
+      - name: Use freshly compiled CV PDF on the site
+        run: cp _cv/main.pdf assets/files/chirag_lakhani_cv.pdf
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 

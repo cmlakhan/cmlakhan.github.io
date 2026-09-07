@@ -18,8 +18,10 @@ website:
         text: Publications
       - href: software.qmd
         text: Software
-      - href: reading-list.qmd
-        text: Reading List
+      # Reading list hidden for now — to restore: rename _reading-list.qmd back to
+      # reading-list.qmd and re-add the navbar entry below.
+      # - href: reading-list.qmd
+      #   text: Reading List
     right:
       - href: assets/files/chirag_lakhani_cv.pdf
         text: CV
