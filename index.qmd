@@ -14,6 +14,9 @@ about:
     - icon: person-badge
       text: ORCID
       href: https://orcid.org/0000-0002-8431-3690
+    - icon: journal-text
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Chirag-Lakhani-4
     - icon: github
       text: GitHub
       href: https://github.com/cmlakhan
