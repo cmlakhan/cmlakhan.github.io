@@ -9,7 +9,8 @@ Personal academic website of Chirag M. Lakhani, built with [Quarto](https://quar
 | `index.qmd` | Home page: About Me + research interests |
 | `publications.qmd` | Publications page (content generated from `_data/publications.yml`) |
 | `software.qmd` | Released software tools |
-| `reading-list.qmd` | Reading list (content generated from `_data/reading_list.bib`) |
+| `_reading-list.qmd` | Reading list — currently unpublished; rename to `reading-list.qmd` and re-add the navbar entry in `_quarto.yml` to restore it |
+| `_cv/main.tex` + `_cv/chirag_citations.bib` | CV source (LaTeX) — compiled by CI on every push; the fresh PDF is deployed as the site's CV automatically |
 | `_data/publications.yml` | Publication entries — edit this to add/update papers |
 | `_data/reading_list.bib` | Reading list BibTeX — paste entries here, with `category`/`subcategory` fields |
 | `scripts/build_content.py` | Generates the publication and reading-list markdown at render time |
