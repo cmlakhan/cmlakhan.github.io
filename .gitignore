@@ -1,8 +1,9 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
+_site/
+_generated/
+.quarto/
 .DS_Store
-.jekyll-cache
 git-update.sh
 .idea/
+__pycache__/
+
+/.quarto/

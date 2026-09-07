@@ -1,0 +1,51 @@
+---
+title: "Chirag M. Lakhani"
+subtitle: "Senior Research Scientist<br>New York Genome Center"
+image: assets/img/headshot.JPG
+toc: false
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 13em
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=WN8zP3gAAAAJ&hl=en
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-8431-3690
+    - icon: github
+      text: GitHub
+      href: https://github.com/cmlakhan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/chiraglakhani/
+    - icon: twitter-x
+      text: X
+      href: https://x.com/cmlakhan
+    - icon: cloud
+      text: Bluesky
+      href: https://bsky.app/profile/clakhani.bsky.social
+    - icon: file-earmark-text
+      text: CV
+      href: assets/files/chirag_lakhani_cv.pdf
+---
+
+## About Me
+
+I develop deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to [identify causal variants](https://www.medrxiv.org/content/10.1101/2025.03.07.25323578v1) and [explain heritability](https://www.medrxiv.org/content/10.64898/2025.12.03.25341562v1) in Alzheimer's disease.
+
+I am a Senior Research Scientist at the [New York Genome Center](https://www.nygenome.org/), working with [David Knowles](https://daklab.github.io/) (Columbia University) and [Towfique Raj](https://rajlab.org/) (Icahn School of Medicine at Mount Sinai), and a member of the [NIH Alzheimer's Disease Sequencing Project](https://adsp.niagads.org/) consortium, where I present regularly to its AI/ML Working Group and External Advisory Board. My work is supported by an ADSP-funded NIH grant through the Functional Genomics Consortium (FunGen-AD).
+<!-- TODO: add the U01 grant number to the sentence above, e.g. "(U01 AGxxxxxx)" -->
+
+Trained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.
+
+Contact: clakhani (at) nygenome.org
+
+## Research Interests
+
+- Deep learning models of gene regulation and variant effect prediction
+- Cell-type-resolved molecular QTL mapping
+- Rare and common variant fine-mapping in Alzheimer's disease
+- Functional annotation for heritability partitioning and causal variant identification
+- Statistical methods for rare variant association testing

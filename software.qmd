@@ -1,0 +1,38 @@
+---
+title: "Software"
+toc: false
+---
+
+Released tools from my research. Each is open source and accompanies a paper.
+
+::: {.software-entry}
+### scEEMS
+
+Single-cell Enhanced Expression Modifier Scores — a machine learning framework for predicting cell-type-resolved brain eQTLs, used to identify variants explaining Alzheimer's disease heritability.
+
+[Code](https://github.com/daklab/scEEMS){.pub-btn target="_blank"} [Paper](https://www.medrxiv.org/content/10.64898/2025.12.03.25341562v1){.pub-btn target="_blank"}
+:::
+
+::: {.software-entry}
+### gruyere
+
+Genome-wide Rare Variant EnRichment Evaluation — a rare-variant association test that leverages functional annotations, applied to Alzheimer disease (published in *AJHG*, 2025).
+
+[Code](https://github.com/daklab/gruyere){.pub-btn target="_blank"} [Paper](https://doi.org/10.1016/j.ajhg.2025.07.016){.pub-btn target="_blank"}
+:::
+
+::: {.software-entry}
+### parmigiano
+
+An empirical Bayes framework for burden and dispersion rare-variant association tests, used to prioritize rare variants associated with Alzheimer's disease.
+
+[Code](https://github.com/daklab/parmigiano){.pub-btn target="_blank"} [Paper](https://www.medrxiv.org/content/10.64898/2026.06.15.26354742v1){.pub-btn target="_blank"}
+:::
+
+::: {.software-entry}
+### LDmat
+
+Efficiently queryable compression of linkage disequilibrium matrices, released as a Python package on PyPI.
+
+[Code](https://github.com/G2Lab/ldmat){.pub-btn target="_blank"} [PyPI](https://pypi.org/project/ldmat/){.pub-btn target="_blank"} [Paper](https://academic.oup.com/bioinformatics/article/39/2/btad092/7043094){.pub-btn target="_blank"}
+:::

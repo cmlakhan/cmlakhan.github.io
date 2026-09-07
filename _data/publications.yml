@@ -1,68 +1,109 @@
-main:
+# Publications data for the website.
+# Three sections: preprints (under review), published (peer-reviewed), earlier (doctoral-era work).
+# Fields per entry:
+#   title, authors, venue, link  (required)
+#   code, page, summary, press   (optional)
+# The build script bolds "Chirag [M.] Lakhani" automatically — just write the plain author list.
+
+preprints:
+
+  - title: "An empirical Bayes framework for burden and dispersion association tests helps prioritize rare variants associated with Alzheimer's disease"
+    authors: "Anjali Das, Chirag Lakhani, Vera M. Mazeeva, Towfique Raj, David A. Knowles"
+    venue: "medRxiv, 2026"
+    link: https://www.medrxiv.org/content/10.64898/2026.06.15.26354742v1
+    code: https://github.com/daklab/parmigiano
+
+  - title: "Single-cell machine learning uncovers genetically anchored, cell-type specific programs of Alzheimer's disease"
+    authors: "Adithya Madduri, Randall Ellis, Chirag Lakhani, David Bennett, Chirag J. Patel"
+    venue: "medRxiv, 2026"
+    link: https://www.medrxiv.org/content/10.64898/2026.01.31.26345282v1
+
+  - title: "Machine learning-based prediction of cell-type resolved brain eQTLs enhances discovery of variants explaining Alzheimer's disease heritability"
+    authors: "Chirag M. Lakhani, Giacomo Cavalca, Anjing Liu, Rohan Nidumbur, Ru Feng, Towfique Raj, Philip De Jager, The Alzheimer's Disease Functional Genomics Consortium, Gao Wang, David A. Knowles"
+    venue: "medRxiv, 2025"
+    link: https://www.medrxiv.org/content/10.64898/2025.12.03.25341562v1
+    code: https://github.com/daklab/scEEMS
+    summary: "Introduces scEEMS (single-cell Enhanced Expression Modifier Scores), a machine learning framework predicting cell-type-resolved brain eQTLs; scEEMS annotations identify variants explaining 15.3% of Alzheimer's disease heritability at 140-fold enrichment."
+
+  - title: "Distributional genetic effects reveal context-dependent molecular regulation in human brain aging and Alzheimer's disease"
+    authors: "Anjing Liu, Roulan Jiang, Ruixi Li, Xuewei Cao, Zining Qi, Ru Feng, Hao Sun, Masashi Fujita, Natacha Comandante-Lou, Chirag M. Lakhani, Jenny Empawi, David A. Knowles, Xiaoling Zhang, Kushal K. Dey, Philip De Jager, David Bennett, The Alzheimer's Disease Functional Genomics Consortium, Tianying Wang, Gao Wang"
+    venue: "Research Square, 2025"
+    link: https://www.researchsquare.com/article/rs-8219833/v1
 
   - title: "Mosaic chromosomal alterations in blood are associated with an increased risk of Alzheimer's disease"
     authors: "Tatsuhiko Naito, Kosei Hirata, Beomjin Jang, Chirag M. Lakhani, Alice Buonfiglioli, Wan-Ping Lee, Otto Valladares, Li-San Wang, Yukinori Okada, Hong-Hee Won, Eirini P. Papapetrou, Samuele G. Marro, David A. Knowles, Towfique Raj"
-    conference: "medRxiv, 2025"
+    venue: "medRxiv, 2025"
     link: https://www.medrxiv.org/content/10.1101/2025.05.29.25328544v1
 
-
-  - title: "Integration of Deep Learning Annotations with Functional Genomics Improves Identification of Causal Alzheimer's Disease Variants"
+  - title: "Integration of deep learning annotations with functional genomics improves identification of causal Alzheimer's disease variants"
     authors: "Chirag M. Lakhani, Jui-Shan T. Lin, Anjali Das, Tatsuhiko Naito, Towfique Raj, David A. Knowles"
-    conference: "medRxiv, 2025"
+    venue: "medRxiv, 2025"
     link: https://www.medrxiv.org/content/10.1101/2025.03.07.25323578v1
+    summary: "Integrates genomic deep learning annotations with functional genomics data in a functionally informed fine-mapping framework, improving identification of causal Alzheimer's disease variants."
 
-  - title: "Leveraging functional annotations to map rare variants associated with Alzheimer's disease with gruyere"
+  - title: "Geospatial analysis of individual and community-level socioeconomic factors impacting SARS-CoV-2 prevalence and outcomes"
+    authors: "Sara J. Cromer, Chirag M. Lakhani, Deborah J. Wexler, Sherri-Ann M. Burnett-Bowie, Miriam Udler, Chirag J. Patel"
+    venue: "medRxiv, 2020"
+    link: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1
+
+published:
+
+  - title: "Interpretable deep learning for functional fine-mapping of chromatin QTLs in Alzheimer's disease"
+    authors: "Clara Yu, Chirag Lakhani, David A. Knowles"
+    venue: "14th International Conference on Bioinformatics and Computational Biology (ICBCB), IEEE, pp. 85-89, 2026"
+    link: https://ieeexplore.ieee.org/document/11621766
+
+  - title: "Leveraging functional annotations to map rare variants associated with Alzheimer disease with gruyere"
     authors: "Anjali Das, Chirag Lakhani, Chloé Terwagne, Jui-Shan T. Lin, Tatsuhiko Naito, Towfique Raj, David A. Knowles"
-    conference: "medRxiv, 2025"
-    link: https://www.medrxiv.org/content/10.1101/2024.12.06.24318577v2
+    venue: "The American Journal of Human Genetics, vol. 112, no. 9, pp. 2138-2151, 2025"
+    link: https://doi.org/10.1016/j.ajhg.2025.07.016
+    code: https://github.com/daklab/gruyere
 
   - title: "LDmat: efficiently queryable compression of linkage disequilibrium matrices"
     authors: "Rockwell J. Weiner, Chirag Lakhani, David A. Knowles, Gamze Gürsoy"
-    conference: "Bioinformatics, vol. 39, no. 2, pp. btad092, 2023"
+    venue: "Bioinformatics, vol. 39, no. 2, pp. btad092, 2023"
     link: https://academic.oup.com/bioinformatics/article/39/2/btad092/7043094
     code: https://github.com/G2Lab/ldmat
     page: https://pypi.org/project/ldmat/
 
   - title: "Association and interaction of genetics and area-level socioeconomic factors on the prevalence of type 2 diabetes and obesity"
     authors: "Sara J. Cromer, Chirag M. Lakhani, Josep M. Mercader, Timothy D. Majarian, Philip Schroeder, Joanne B. Cole, Jose C. Florez, Chirag J. Patel, Alisa K. Manning, Sherri-Ann M. Burnett-Bowie, et al."
-    conference: "Diabetes Care, vol. 46, no. 5, pp. 944-952, 2023"
+    venue: "Diabetes Care, vol. 46, no. 5, pp. 944-952, 2023"
     link: https://diabetesjournals.org/care/article/46/5/944/148426/Association-and-Interaction-of-Genetics-and-Area
 
   - title: "A new method for estimating the probability of causal relationships from observational data: Application to the study of the short-term effects of air pollution on cardiovascular and respiratory disease"
     authors: "Bryan Andrews, Chirayu Wongchokprasitti, Shyam Visweswaran, Chirag M. Lakhani, Chirag J. Patel, Gregory F. Cooper"
-    conference: "Artificial intelligence in medicine, vol. 139, pp. 102546, 2023"
+    venue: "Artificial Intelligence in Medicine, vol. 139, pp. 102546, 2023"
     link: https://www.sciencedirect.com/science/article/abs/pii/S093336572300060X?via%3Dihub
 
   - title: "The impact of socioeconomic status on subsequent neurological outcomes in multiple sclerosis"
     authors: "Devi Sai Sri Kavya Boorgu, Shruthi Venkatesh, Chirag M. Lakhani, Elizabeth Walker, Ines M. Aguerre, Claire Riley, Chirag J. Patel, Philip L. De Jager, Zongqi Xia"
-    conference: "Multiple sclerosis and related disorders, vol. 65, pp. 103994, 2022"
+    venue: "Multiple Sclerosis and Related Disorders, vol. 65, pp. 103994, 2022"
     link: https://www.msard-journal.com/article/S2211-0348(22)00505-3/fulltext
 
-  - title: "Identifying communities at risk for COVID-19--related burden across 500 US cities and within New York City: unsupervised learning of the coprevalence of health indicators"
+  - title: "Identifying communities at risk for COVID-19-related burden across 500 US cities and within New York City: unsupervised learning of the coprevalence of health indicators"
     authors: "Andrew Deonarine, Genevieve Lyons, Chirag Lakhani, Walter De Brouwer"
-    conference: "JMIR Public Health and Surveillance, vol. 7, no. 8, pp. e26604, 2021"
+    venue: "JMIR Public Health and Surveillance, vol. 7, no. 8, pp. e26604, 2021"
     link: https://publichealth.jmir.org/2021/8/e26604/
 
   - title: "Comparisons of polyexposure, polygenic, and clinical risk scores in risk prediction of type 2 diabetes"
     authors: "Yixuan He, Chirag M. Lakhani, Danielle Rasooly, Arjun K. Manrai, Ioanna Tzoulaki, Chirag J. Patel"
-    conference: "Diabetes Care, vol. 44, no. 4, pp. 935-943, 2021"
+    venue: "Diabetes Care, vol. 44, no. 4, pp. 935-943, 2021"
     link: https://diabetesjournals.org/care/article/44/4/935/138586/Comparisons-of-Polyexposure-Polygenic-and-Clinical
-
-  - title: "Geospatial analysis of individual and community-level socioeconomic factors impacting SARS-CoV-2 prevalence and outcomes"
-    authors: "Sara J. Cromer, Chirag M. Lakhani, Deborah J. Wexler, Sherri-Ann M. Burnett-Bowie, Miriam Udler, Chirag J. Patel"
-    conference: "MedRxiv, 2020"
-    link: https://www.medrxiv.org/content/10.1101/2020.09.30.20201830v1
 
   - title: "Repurposing large health insurance claims data to estimate genetic and environmental contributions in 560 phenotypes"
     authors: "Chirag M. Lakhani, Braden T. Tierney, Arjun K. Manrai, Jian Yang, Peter M. Visscher, Chirag J. Patel"
-    conference: "Nature genetics, vol. 51, no. 2, pp. 327-334, 2019"
+    venue: "Nature Genetics, vol. 51, no. 2, pp. 327-334, 2019"
     link: assets/files/lakhani2019.pdf
     code: https://github.com/cmlakhan/twinInsurance
     page: http://apps.chiragjpgroup.org/catch/
-    others: 'Press Coverage: <a href="https://www.washingtonpost.com/health/2019/01/14/largest-study-american-twins-traces-influence-genes-environment-disease/" target="_blank">Washington Post</a> | <a href="https://www.theverge.com/2019/1/16/18185613/health-genetics-environment-nature-nurture-science" target="_blank">The Verge</a> | <a href="https://www.cnn.com/2019/01/14/health/twins-research-science/index.html" target="_blank">CNN</a> | <a href="https://www.axios.com/2019/01/14/genes-more-than-environment-cause-diseases" target="_blank">Axios</a> | <a href="https://harvardmagazine.com/2019/07/nature-nurture-genetics" target="_blank">Harvard Magazine</a> | <a href="https://factor.niehs.nih.gov/2021/1/science-highlights/data-science" target="_blank">NIEHS Environmental Factor</a>'
+    summary: "Repurposed a health insurance claims dataset of 45 million individuals to conduct the largest twin study in the United States (56,396 twin pairs), estimating genetic and environmental contributions to 560 phenotypes."
+    press: 'Press coverage: <a href="https://www.washingtonpost.com/health/2019/01/14/largest-study-american-twins-traces-influence-genes-environment-disease/" target="_blank">Washington Post</a> | <a href="https://www.theverge.com/2019/1/16/18185613/health-genetics-environment-nature-nurture-science" target="_blank">The Verge</a> | <a href="https://www.cnn.com/2019/01/14/health/twins-research-science/index.html" target="_blank">CNN</a> | <a href="https://www.axios.com/2019/01/14/genes-more-than-environment-cause-diseases" target="_blank">Axios</a> | <a href="https://harvardmagazine.com/2019/07/nature-nurture-genetics" target="_blank">Harvard Magazine</a> | <a href="https://factor.niehs.nih.gov/2021/1/science-highlights/data-science" target="_blank">NIEHS Environmental Factor</a>'
 
+earlier:
 
   - title: "The GIT compactification of quintic threefolds"
     authors: "Chirag Lakhani"
-    conference: "arXiv preprint arXiv:1010.3803, 2010"
+    venue: "arXiv preprint arXiv:1010.3803, 2010"
     link: https://arxiv.org/abs/1010.3803
+    summary: "From my doctoral training in algebraic geometry."

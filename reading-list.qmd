@@ -1,0 +1,9 @@
+---
+title: "Reading List"
+toc: true
+toc-title: "Topics"
+---
+
+Papers I'm currently reading, roughly grouped by what they're teaching me.
+
+{{< include _generated/reading-list.md >}}

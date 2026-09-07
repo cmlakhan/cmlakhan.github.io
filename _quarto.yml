@@ -1,0 +1,36 @@
+project:
+  type: website
+  pre-render: python3 scripts/build_content.py
+  render:
+    - "*.qmd"
+
+website:
+  title: "Chirag M. Lakhani"
+  site-url: https://cmlakhan.github.io
+  description: "Chirag M. Lakhani — Senior Research Scientist at the New York Genome Center. Deep learning methods for regulatory variant effect prediction, applied to Alzheimer's disease genetics."
+  favicon: assets/img/favicon-32x32.png
+  google-analytics: "G-68070XRNHG"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: reading-list.qmd
+        text: Reading List
+    right:
+      - href: assets/files/chirag_lakhani_cv.pdf
+        text: CV
+  page-footer:
+    center: "&copy; Chirag M. Lakhani &middot; Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

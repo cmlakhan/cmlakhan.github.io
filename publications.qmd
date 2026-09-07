@@ -1,0 +1,7 @@
+---
+title: "Publications"
+toc: true
+toc-title: "Sections"
+---
+
+{{< include _generated/publications.md >}}
