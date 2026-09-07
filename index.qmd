@@ -33,9 +33,9 @@ about:
 
 ## About Me
 
-I develop deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to [identify causal variants](https://www.medrxiv.org/content/10.1101/2025.03.07.25323578v1) and [explain heritability](https://www.medrxiv.org/content/10.64898/2025.12.03.25341562v1) in Alzheimer's disease.
+I develop statistical and deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to [identify causal variants](https://www.medrxiv.org/content/10.1101/2025.03.07.25323578v1) and [uncover missing regulation](https://www.medrxiv.org/content/10.64898/2025.12.03.25341562v1) in Alzheimer's disease.
 
-I am a Senior Research Scientist at the [New York Genome Center](https://www.nygenome.org/), working with [David Knowles](https://daklab.github.io/) (Columbia University) and [Towfique Raj](https://rajlab.org/) (Icahn School of Medicine at Mount Sinai), and a member of the [NIH Alzheimer's Disease Sequencing Project](https://adsp.niagads.org/) consortium, where I present regularly to its AI/ML Working Group and External Advisory Board. My work is supported by the NIH/NIA-funded U01&nbsp;AG068880, *Learning the Regulatory Code of Alzheimer's Disease Genomes*, part of the ADSP Functional Genomics Consortium (FunGen-AD).
+I am a Senior Research Scientist at the [New York Genome Center](https://www.nygenome.org/), working with [David Knowles](https://daklab.github.io/) (Columbia University/New York Genome Center) and [Towfique Raj](https://rajlab.org/) (Icahn School of Medicine at Mount Sinai), and a member of the [NIH Alzheimer's Disease Sequencing Project](https://adsp.niagads.org/) consortium, where I collaborate with members of the AI/ML and Functional Genomics Working Group.  My work is supported by the NIH/NIA-funded U01&nbsp;AG068880, *Learning the Regulatory Code of Alzheimer's Disease Genomes*, part of the ADSP Functional Genomics Consortium (FunGen-AD).
 
 Trained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.
 
@@ -44,7 +44,5 @@ Contact: clakhani (at) nygenome.org
 ## Research Interests
 
 - Deep learning models of gene regulation and variant effect prediction
-- Cell-type-resolved molecular QTL mapping
-- Rare and common variant fine-mapping in Alzheimer's disease
-- Functional annotation for heritability partitioning and causal variant identification
-- Statistical methods for rare variant association testing
+- Rare variant gene discovery and common variant fine-mapping in Alzheimer's disease
+- Discovery of cell-specific deep learning annotations which can be used as priors for fine-mapping and rare variant association testing
