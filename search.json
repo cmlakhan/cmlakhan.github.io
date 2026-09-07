@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Released tools from my research. Each is open source and accompanies a paper.\n\nscEEMS\nSingle-cell Enhanced Expression Modifier Scores — a machine learning framework for predicting cell-type-resolved brain eQTLs, used to identify variants explaining Alzheimer’s disease heritability.\nCode Paper\n\n\ngruyere\nGenome-wide Rare Variant EnRichment Evaluation — a rare-variant association test that leverages functional annotations, applied to Alzheimer disease (published in AJHG, 2025).\nCode Paper\n\n\nparmigiano\nAn empirical Bayes framework for burden and dispersion rare-variant association tests, used to prioritize rare variants associated with Alzheimer’s disease.\nCode Paper\n\n\nLDmat\nEfficiently queryable compression of linkage disequilibrium matrices, released as a Python package on PyPI.\nCode PyPI Paper"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "An empirical Bayes framework for burden and dispersion association tests helps prioritize rare variants associated with Alzheimer's disease\n\n\nAnjali Das, Chirag Lakhani, Vera M. Mazeeva, Towfique Raj, David A. Knowles\n\n\nmedRxiv, 2026\n\n\nPaper Code\n\n\n\n\nSingle-cell machine learning uncovers genetically anchored, cell-type specific programs of Alzheimer's disease\n\n\nAdithya Madduri, Randall Ellis, Chirag Lakhani, David Bennett, Chirag J. Patel\n\n\nmedRxiv, 2026\n\n\nPaper\n\n\n\n\nMachine learning-based prediction of cell-type resolved brain eQTLs enhances discovery of variants explaining Alzheimer's disease heritability\n\n\nChirag M. Lakhani, Giacomo Cavalca, Anjing Liu, Rohan Nidumbur, Ru Feng, Towfique Raj, Philip De Jager, The Alzheimer's Disease Functional Genomics Consortium, Gao Wang, David A. Knowles\n\n\nmedRxiv, 2025\n\n\nIntroduces scEEMS (single-cell Enhanced Expression Modifier Scores), a machine learning framework predicting cell-type-resolved brain eQTLs; scEEMS annotations identify variants explaining 15.3% of Alzheimer's disease heritability at 140-fold enrichment.\n\n\nPaper Code\n\n\n\n\nDistributional genetic effects reveal context-dependent molecular regulation in human brain aging and Alzheimer's disease\n\n\nAnjing Liu, Roulan Jiang, Ruixi Li, Xuewei Cao, Zining Qi, Ru Feng, Hao Sun, Masashi Fujita, Natacha Comandante-Lou, Chirag M. Lakhani, Jenny Empawi, David A. Knowles, Xiaoling Zhang, Kushal K. Dey, Philip De Jager, David Bennett, The Alzheimer's Disease Functional Genomics Consortium, Tianying Wang, Gao Wang\n\n\nResearch Square, 2025\n\n\nPaper\n\n\n\n\nMosaic chromosomal alterations in blood are associated with an increased risk of Alzheimer's disease\n\n\nTatsuhiko Naito, Kosei Hirata, Beomjin Jang, Chirag M. Lakhani, Alice Buonfiglioli, Wan-Ping Lee, Otto Valladares, Li-San Wang, Yukinori Okada, Hong-Hee Won, Eirini P. Papapetrou, Samuele G. Marro, David A. Knowles, Towfique Raj\n\n\nmedRxiv, 2025\n\n\nPaper\n\n\n\n\nIntegration of deep learning annotations with functional genomics improves identification of causal Alzheimer's disease variants\n\n\nChirag M. Lakhani, Jui-Shan T. Lin, Anjali Das, Tatsuhiko Naito, Towfique Raj, David A. Knowles\n\n\nmedRxiv, 2025\n\n\nIntegrates genomic deep learning annotations with functional genomics data in a functionally informed fine-mapping framework, improving identification of causal Alzheimer's disease variants.\n\n\nPaper\n\n\n\n\nGeospatial analysis of individual and community-level socioeconomic factors impacting SARS-CoV-2 prevalence and outcomes\n\n\nSara J. Cromer, Chirag M. Lakhani, Deborah J. Wexler, Sherri-Ann M. Burnett-Bowie, Miriam Udler, Chirag J. Patel\n\n\nmedRxiv, 2020\n\n\nPaper"
+  },
+  {
+    "objectID": "publications.html#preprints-under-review",
+    "href": "publications.html#preprints-under-review",
+    "title": "Publications",
+    "section": "",
+    "text": "An empirical Bayes framework for burden and dispersion association tests helps prioritize rare variants associated with Alzheimer's disease\n\n\nAnjali Das, Chirag Lakhani, Vera M. Mazeeva, Towfique Raj, David A. Knowles\n\n\nmedRxiv, 2026\n\n\nPaper Code\n\n\n\n\nSingle-cell machine learning uncovers genetically anchored, cell-type specific programs of Alzheimer's disease\n\n\nAdithya Madduri, Randall Ellis, Chirag Lakhani, David Bennett, Chirag J. Patel\n\n\nmedRxiv, 2026\n\n\nPaper\n\n\n\n\nMachine learning-based prediction of cell-type resolved brain eQTLs enhances discovery of variants explaining Alzheimer's disease heritability\n\n\nChirag M. Lakhani, Giacomo Cavalca, Anjing Liu, Rohan Nidumbur, Ru Feng, Towfique Raj, Philip De Jager, The Alzheimer's Disease Functional Genomics Consortium, Gao Wang, David A. Knowles\n\n\nmedRxiv, 2025\n\n\nIntroduces scEEMS (single-cell Enhanced Expression Modifier Scores), a machine learning framework predicting cell-type-resolved brain eQTLs; scEEMS annotations identify variants explaining 15.3% of Alzheimer's disease heritability at 140-fold enrichment.\n\n\nPaper Code\n\n\n\n\nDistributional genetic effects reveal context-dependent molecular regulation in human brain aging and Alzheimer's disease\n\n\nAnjing Liu, Roulan Jiang, Ruixi Li, Xuewei Cao, Zining Qi, Ru Feng, Hao Sun, Masashi Fujita, Natacha Comandante-Lou, Chirag M. Lakhani, Jenny Empawi, David A. Knowles, Xiaoling Zhang, Kushal K. Dey, Philip De Jager, David Bennett, The Alzheimer's Disease Functional Genomics Consortium, Tianying Wang, Gao Wang\n\n\nResearch Square, 2025\n\n\nPaper\n\n\n\n\nMosaic chromosomal alterations in blood are associated with an increased risk of Alzheimer's disease\n\n\nTatsuhiko Naito, Kosei Hirata, Beomjin Jang, Chirag M. Lakhani, Alice Buonfiglioli, Wan-Ping Lee, Otto Valladares, Li-San Wang, Yukinori Okada, Hong-Hee Won, Eirini P. Papapetrou, Samuele G. Marro, David A. Knowles, Towfique Raj\n\n\nmedRxiv, 2025\n\n\nPaper\n\n\n\n\nIntegration of deep learning annotations with functional genomics improves identification of causal Alzheimer's disease variants\n\n\nChirag M. Lakhani, Jui-Shan T. Lin, Anjali Das, Tatsuhiko Naito, Towfique Raj, David A. Knowles\n\n\nmedRxiv, 2025\n\n\nIntegrates genomic deep learning annotations with functional genomics data in a functionally informed fine-mapping framework, improving identification of causal Alzheimer's disease variants.\n\n\nPaper\n\n\n\n\nGeospatial analysis of individual and community-level socioeconomic factors impacting SARS-CoV-2 prevalence and outcomes\n\n\nSara J. Cromer, Chirag M. Lakhani, Deborah J. Wexler, Sherri-Ann M. Burnett-Bowie, Miriam Udler, Chirag J. Patel\n\n\nmedRxiv, 2020\n\n\nPaper"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\n\nInterpretable deep learning for functional fine-mapping of chromatin QTLs in Alzheimer's disease\n\n\nClara Yu, Chirag Lakhani, David A. Knowles\n\n\n14th International Conference on Bioinformatics and Computational Biology (ICBCB), IEEE, pp. 85-89, 2026\n\n\nPaper\n\n\n\n\nLeveraging functional annotations to map rare variants associated with Alzheimer disease with gruyere\n\n\nAnjali Das, Chirag Lakhani, Chloé Terwagne, Jui-Shan T. Lin, Tatsuhiko Naito, Towfique Raj, David A. Knowles\n\n\nThe American Journal of Human Genetics, vol. 112, no. 9, pp. 2138-2151, 2025\n\n\nPaper Code\n\n\n\n\nLDmat: efficiently queryable compression of linkage disequilibrium matrices\n\n\nRockwell J. Weiner, Chirag Lakhani, David A. Knowles, Gamze Gürsoy\n\n\nBioinformatics, vol. 39, no. 2, pp. btad092, 2023\n\n\nPaper Code Project Page\n\n\n\n\nAssociation and interaction of genetics and area-level socioeconomic factors on the prevalence of type 2 diabetes and obesity\n\n\nSara J. Cromer, Chirag M. Lakhani, Josep M. Mercader, Timothy D. Majarian, Philip Schroeder, Joanne B. Cole, Jose C. Florez, Chirag J. Patel, Alisa K. Manning, Sherri-Ann M. Burnett-Bowie, et al.\n\n\nDiabetes Care, vol. 46, no. 5, pp. 944-952, 2023\n\n\nPaper\n\n\n\n\nA new method for estimating the probability of causal relationships from observational data: Application to the study of the short-term effects of air pollution on cardiovascular and respiratory disease\n\n\nBryan Andrews, Chirayu Wongchokprasitti, Shyam Visweswaran, Chirag M. Lakhani, Chirag J. Patel, Gregory F. Cooper\n\n\nArtificial Intelligence in Medicine, vol. 139, pp. 102546, 2023\n\n\nPaper\n\n\n\n\nThe impact of socioeconomic status on subsequent neurological outcomes in multiple sclerosis\n\n\nDevi Sai Sri Kavya Boorgu, Shruthi Venkatesh, Chirag M. Lakhani, Elizabeth Walker, Ines M. Aguerre, Claire Riley, Chirag J. Patel, Philip L. De Jager, Zongqi Xia\n\n\nMultiple Sclerosis and Related Disorders, vol. 65, pp. 103994, 2022\n\n\nPaper\n\n\n\n\nIdentifying communities at risk for COVID-19-related burden across 500 US cities and within New York City: unsupervised learning of the coprevalence of health indicators\n\n\nAndrew Deonarine, Genevieve Lyons, Chirag Lakhani, Walter De Brouwer\n\n\nJMIR Public Health and Surveillance, vol. 7, no. 8, pp. e26604, 2021\n\n\nPaper\n\n\n\n\nComparisons of polyexposure, polygenic, and clinical risk scores in risk prediction of type 2 diabetes\n\n\nYixuan He, Chirag M. Lakhani, Danielle Rasooly, Arjun K. Manrai, Ioanna Tzoulaki, Chirag J. Patel\n\n\nDiabetes Care, vol. 44, no. 4, pp. 935-943, 2021\n\n\nPaper\n\n\n\n\nRepurposing large health insurance claims data to estimate genetic and environmental contributions in 560 phenotypes\n\n\nChirag M. Lakhani, Braden T. Tierney, Arjun K. Manrai, Jian Yang, Peter M. Visscher, Chirag J. Patel\n\n\nNature Genetics, vol. 51, no. 2, pp. 327-334, 2019\n\n\nRepurposed a health insurance claims dataset of 45 million individuals to conduct the largest twin study in the United States (56,396 twin pairs), estimating genetic and environmental contributions to 560 phenotypes.\n\n\nPaper Code Project Page\n\n\nPress coverage: Washington Post | The Verge | CNN | Axios | Harvard Magazine | NIEHS Environmental Factor"
+  },
+  {
+    "objectID": "publications.html#earlier-work",
+    "href": "publications.html#earlier-work",
+    "title": "Publications",
+    "section": "Earlier Work",
+    "text": "Earlier Work\n\nFrom my doctoral training in mathematics.\n\n\n\nThe GIT compactification of quintic threefolds\n\n\nChirag Lakhani\n\n\narXiv preprint arXiv:1010.3803, 2010\n\n\nFrom my doctoral training in algebraic geometry.\n\n\nPaper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chirag M. Lakhani",
+    "section": "",
+    "text": "I develop deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to identify causal variants and explain heritability in Alzheimer’s disease.\nI am a Senior Research Scientist at the New York Genome Center, working with David Knowles (Columbia University) and Towfique Raj (Icahn School of Medicine at Mount Sinai), and a member of the NIH Alzheimer’s Disease Sequencing Project consortium, where I present regularly to its AI/ML Working Group and External Advisory Board. My work is supported by an ADSP-funded NIH grant through the Functional Genomics Consortium (FunGen-AD). \nTrained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.\nContact: clakhani (at) nygenome.org"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Chirag M. Lakhani",
+    "section": "",
+    "text": "I develop deep learning methods for predicting the functional effects of regulatory genetic variants, and apply them to understand cell-type-specific gene regulation in neurodegenerative disease. My current work integrates genomic deep learning models with functional genomics data to identify causal variants and explain heritability in Alzheimer’s disease.\nI am a Senior Research Scientist at the New York Genome Center, working with David Knowles (Columbia University) and Towfique Raj (Icahn School of Medicine at Mount Sinai), and a member of the NIH Alzheimer’s Disease Sequencing Project consortium, where I present regularly to its AI/ML Working Group and External Advisory Board. My work is supported by an ADSP-funded NIH grant through the Functional Genomics Consortium (FunGen-AD). \nTrained in pure mathematics, I moved through computational topology and geometric data analysis into industry machine learning, then to biomedical data science at Harvard Medical School, before joining the Genome Center in 2021.\nContact: clakhani (at) nygenome.org"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Chirag M. Lakhani",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nDeep learning models of gene regulation and variant effect prediction\nCell-type-resolved molecular QTL mapping\nRare and common variant fine-mapping in Alzheimer’s disease\nFunctional annotation for heritability partitioning and causal variant identification\nStatistical methods for rare variant association testing"
+  },
+  {
+    "objectID": "reading-list.html",
+    "href": "reading-list.html",
+    "title": "Reading List",
+    "section": "",
+    "text": "Papers I’m currently reading, roughly grouped by what they’re teaching me."
+  },
+  {
+    "objectID": "reading-list.html#functional-genomics",
+    "href": "reading-list.html#functional-genomics",
+    "title": "Reading List",
+    "section": "Functional Genomics",
+    "text": "Functional Genomics\n\nChromatin Accessibility\n\n\nA meta-analysis of chromatin-associated loci provides insights into mechanistic interpretations of trait heritability\n\n\nMax F. Dudek, Brandon M. Wenz, Benjamin F. Voight, Laura Almasy, Struan F.A. Grant\n\n\nbioRxiv, 2026\n\n\nPaper\n\n\n\n\nDistinguishing causal from tagging enhancers using single-cell multiome data\n\n\nElizabeth Dorans, Alkes L. Price\n\n\nmedRxiv, 2026\n\n\nPaper\n\n\n\n\nTranscription Factor Binding\n\n\nUnstructured transcription factor interactions enable emergent specificity\n\n\nAbrar A Abidi, Claudia Cattoglio, Natalie N Tang, Vinson B Fan, Gina M Dailey, Amir D Hay, Prasanthi Kunamaneni, Daniel E Milkie, Xavier Darzacq, Eric Betzig, Robert Tjian, Thomas G W Graham\n\n\nScience, 2026\n\n\nPaper"
+  },
+  {
+    "objectID": "reading-list.html#genomic-deep-learning",
+    "href": "reading-list.html#genomic-deep-learning",
+    "title": "Reading List",
+    "section": "Genomic Deep Learning",
+    "text": "Genomic Deep Learning\n\nModel Interpretation\n\n\nUncovering the Mechanistic Landscape of Regulatory DNA with Deep Learning\n\n\nEvan E. Seitz, David M. McCandlish, Justin B. Kinney, Peter K Koo\n\n\nbioRxiv, 2025\n\n\nPaper\n\n\n\n\nWhen Less Is Enough: Low-Rank Structure in DNA Sequence-to-Function Models\n\n\nElizabeth Gilfeather, Maria Chikina, Dennis Kostka\n\n\nbioRxiv, 2026\n\n\nPaper\n\n\n\n\nSelf-Supervised Learning\n\n\nPredicting functional constraints across evolutionary timescales with phylogeny-informed genomic language models\n\n\nChengzhong Ye, Gonzalo Benegas, Carlos Albors, Jianan Canal Li, Sebastian Prillo, Peter D. Fields, Brian Clarke, Yun S. Song\n\n\nbioRxiv, 2025\n\n\nPaper\n\n\n\n\nSequence to Function Modeling\n\n\nSequence-based modeling of low-affinity transcription factor–DNA binding through deep learning\n\n\nYingfei Wang, Jinsen Li, Tsu-Pei Chiu, Beibei Xin, Remo Rohs\n\n\nNAR Genomics and Bioinformatics, 2026\n\n\nPaper"
+  },
+  {
+    "objectID": "reading-list.html#statistical-genetics",
+    "href": "reading-list.html#statistical-genetics",
+    "title": "Reading List",
+    "section": "Statistical Genetics",
+    "text": "Statistical Genetics\n\nFine-Mapping\n\n\nGenome-wide fine-mapping improves identification of causal variants\n\n\nYang Wu, Zhili Zheng, Loic Thibaut, Tian Lin, Qian Feng, Hao Cheng, Loic Yengo, Michael E. Goddard, Naomi R. Wray, Peter M. Visscher, Jian Zeng\n\n\nNature Genetics, 2026\n\n\nPaper\n\n\n\n\nVariant Modeling\n\n\nTraining Flexible Models of Genetic Variant Effects from Functional Annotations using Accelerated Linear Algebra\n\n\nAlan N. Amin, Andres Potapczynski, Andrew Gordon Wilson\n\n\n2025\n\n\nPaper"
+  }
+]
