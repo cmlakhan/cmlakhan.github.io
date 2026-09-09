@@ -7,3 +7,14 @@ git-update.sh
 __pycache__/
 
 /.quarto/
+_cv/*.aux
+_cv/*.bbl
+_cv/*.bcf
+_cv/*.blg
+_cv/*.fdb_latexmk
+_cv/*.fls
+_cv/*.log
+_cv/*.out
+_cv/*.run.xml
+_cv/*.synctex.gz
+_cv/main.pdf
